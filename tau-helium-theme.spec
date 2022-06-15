@@ -15,7 +15,7 @@ Provides:       tau-helium
 A set of GTK/GNOME Shell Themes for tauOS
 
 %prep
-%autosetup
+%autosetup -n tau-helium-%{version}
 
 %build
 %meson
