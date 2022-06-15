@@ -1,0 +1,6 @@
+[tau-helium-theme]
+spec = "tau-helium-theme.spec"
+build_script = ""
+build_method = "mock"
+owner = "cappy"
+git_repo = "https://github.com/Ultramarine-Linux/pkg-tau-helium-theme.git"
