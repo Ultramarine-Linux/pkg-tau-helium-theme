@@ -9,6 +9,7 @@ BuildArch:      noarch
 BuildRequires:  sass
 BuildRequires:  meson
 BuildRequires:  ninja-build
+Provides:       tau-helium
 
 %description
 A set of GTK/GNOME Shell Themes for tauOS
